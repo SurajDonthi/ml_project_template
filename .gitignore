@@ -142,8 +142,8 @@ dmypy.json
 .pyre/
 
 # Data & model folders
-# data/
-# models/
+data/
+models/
 
 # Data files
 # Tabular & models
